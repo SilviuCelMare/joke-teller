@@ -50,7 +50,8 @@ button:disabled{
 @media screen and (max-width: 1000px){
 	.container{
 		background-size: cover;
-		background-size: center center;
+		background-position:center center;
+
 	}
 
 	button{
